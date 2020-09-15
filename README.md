@@ -31,17 +31,34 @@
 
 ## Results
 * Clearbanc has made a tremendous impact in the Fintech world since its inception. Their innovation and growth has been staggering over the last couple of years and they continue to attract hundreds of new eCommerce and Saas companies annually. Their easy to use process and quick turnaround has companies flocking to them for financing. This success has attracted many investors looking to take a bite out of Clearbanc's business. They have raised close to **552 million dollars (CAD) through three funding rounds: $94 million & $65 million in 2018 and $393 million in 2019** which they have mainly put towards funding their portfolio companies and growing themselves. To date they have **invested $1 billion in more than 2200 companies** over 5 countries and they have funded women led businesses 8 times more than the industry average. Their current portfolio contains many small businesses across Canada, United States and UK and they are looking to tap into the European and South American market. The number of employees at Clearbanc has grown to 233 as of September 2020 with many more job openings to be filled. 
-
+---
 
 ## Recommendations
 **Problems with Clearbanc:**
 * Clearbanc has raised significant capital through three funding rounds over the last couple of years but these funding rounds involve offering equity to investors. A major criticism that Clearbanc has received is that their whole business model is to help new companies save their equity and they have been diluting their own. 
-* The businesses that they invest in return the intital investment by giving them an agreed upon percentage of their revenue every month. The problem arises if and when these businesses fail and are unable to pay them back. In such cases Clearbanc would incur a major investment loss and it would be hard for them to recover the funds back.
+* The businesses that they invest in return the initial investment by giving them an agreed upon percentage of their revenue every month. The problem arises if and when these businesses fail and are unable to pay them back. In such cases Clearbanc would incur a major investment loss and it would be hard for them to recover the funds back.
 * Their portfolio is limited to only eCommerce and SaaS companies. They need to diversify and include other businesses that  have similar parameters and can be evaluated with their AI.
 
 **Solution**
-* In order to resolve the above mentioned problems Clearbanc needs to come up with an **alternative revenue stream** apart from the 6% fee that they charge their customers. This can be achieved by **offering additonal services**  that can help them avoid further dilluting their equity, protect against delinquent accounts and help diversify. Services such as the **Agency Partner Program** which they launched recently to help businesses with digital marketing and product development. This program can generate additional revenue for Clearbanc since their main customers are new online startups and they can definitely benefit from it. 
+* In order to resolve the above mentioned problems Clearbanc needs to come up with an **alternative revenue stream** apart from the 6% fee that they charge their customers. This can be achieved by **offering additional services**  that can help them avoid further diluting their equity, protect against delinquent accounts and help diversify. Services such as the **Agency Partner Program** which they launched recently to help businesses with digital marketing and product development. This program can generate additional revenue for Clearbanc since their main customers are new online startups and they can definitely benefit from it. 
 
-* Clearbanc can further tap into the **enterprise solutions** domain of Fintech by providing **Accounting and Statement Reporting** as well. They are already collecting all the necessary information to evaluate a business and provide a valuation. They can build an accounting software using **Amazon Web Services** and integrate into their platform. This software can use their machine learning AI and provide services such as *accounting, statement reporting, financial planning & analysis, internal controls, and enterprise resource planning.* Customers can have an option to sign up for this service after they have received funding or any other business in need of an accounting software can also subscribe. Clearbanc can charge an annual fee and create recurring revenue for their company. Intergrated with their AI, this software can also flag any business with a downward trajectory in revenue and can recommend enterprise solutions to help recover which in turn will help Clearbanc recoup their investment faster.
+* Clearbanc can further tap into the **enterprise solutions** domain of Fintech by providing **Accounting and Statement Reporting** as well. They are already collecting all the necessary information to evaluate a business and provide a valuation. They can build an accounting software using **Amazon Web Services** and integrate into their platform. This software can use their machine learning AI and provide services such as *accounting, statement reporting, financial planning & analysis, internal controls, and enterprise resource planning.* Customers can have an option to sign up for this service after they have received funding or any other business in need of an accounting software can also subscribe. Clearbanc can charge an annual fee and create recurring revenue for their company. Integrated with their AI, this software can also flag any business with a downward trajectory in revenue and can recommend enterprise solutions to help recover which in turn will help Clearbanc recoup their investment faster.
+---
+
+## Sources
+* [Clearbanc Website](https://clearbanc.com/)
+* [Term sheet](https://www.20mintermsheet.com/)
+* [Valuiation](https://beta.clearbanc.com/)
+* [Founder Interview](https://www.bnnbloomberg.ca/technology/video/clearbanc-pivots-to-streaming-model-for-venture-capital~1540475)
+* [Founder Interview 2](https://www.youtube.com/watch?v=J0sEaLywD08)
+* [Saas Statistics](https://99firms.com/blog/saas-statistics/#gref)
+* [eCommerce Stats](https://www.emarketer.com/content/global-ecommerce-2019)
+* [AWS](https://aws.amazon.com/what-is-aws/)
+* [Article 1](https://betakit.com/clearbanc-raises-300-million-usd-to-take-entrepreneur-funding-model-global/)
+* [Article 2](https://www.b2bnn.com/2019/04/clearbanc-romanow-20-min-term-sheet/)
+* [Article 3](https://www.forbes.com/sites/johnkoetsier/2020/06/27/1-billion-for-2800-startups-how-clearbanc-uses-ai-to-take-bias-out-of-investing/#79a2ee7d51d0)
+* [Article 4](https://www.forbes.com/sites/cognitiveworld/2019/05/02/data-driven-vcs-who-is-using-ai-to-be-a-better-and-smarter-investor/#7fde667d1d34)
+* [Article 5](https://www.forbes.com/sites/alexlazarow/2020/05/13/venture-capital-has-a-lot-to-learn-from-fintech/#77cd34e54fa2)
+
 
 
