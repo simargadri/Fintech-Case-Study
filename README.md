@@ -47,18 +47,19 @@
 
 ## Sources
 * [Clearbanc Website](https://clearbanc.com/)
-* [Term sheet](https://www.20mintermsheet.com/)
-* [Valuiation](https://beta.clearbanc.com/)
-* [Founder Interview](https://www.bnnbloomberg.ca/technology/video/clearbanc-pivots-to-streaming-model-for-venture-capital~1540475)
-* [Founder Interview 2](https://www.youtube.com/watch?v=J0sEaLywD08)
-* [Saas Statistics](https://99firms.com/blog/saas-statistics/#gref)
-* [eCommerce Stats](https://www.emarketer.com/content/global-ecommerce-2019)
-* [AWS](https://aws.amazon.com/what-is-aws/)
-* [Article 1](https://betakit.com/clearbanc-raises-300-million-usd-to-take-entrepreneur-funding-model-global/)
-* [Article 2](https://www.b2bnn.com/2019/04/clearbanc-romanow-20-min-term-sheet/)
-* [Article 3](https://www.forbes.com/sites/johnkoetsier/2020/06/27/1-billion-for-2800-startups-how-clearbanc-uses-ai-to-take-bias-out-of-investing/#79a2ee7d51d0)
-* [Article 4](https://www.forbes.com/sites/cognitiveworld/2019/05/02/data-driven-vcs-who-is-using-ai-to-be-a-better-and-smarter-investor/#7fde667d1d34)
-* [Article 5](https://www.forbes.com/sites/alexlazarow/2020/05/13/venture-capital-has-a-lot-to-learn-from-fintech/#77cd34e54fa2)
+* [The 20 Min Term sheet](https://www.20mintermsheet.com/)
+* [Clearbanc Valuation](https://beta.clearbanc.com/)
+* [Clearbanc pivots to revenue-share model for venture capital](https://www.bnnbloomberg.ca/technology/video/clearbanc-pivots-to-streaming-model-for-venture-capital~1540475)
+* [Fintech Startup Clearbanc Opens Up Access to Growth Capital](https://www.youtube.com/watch?v=J0sEaLywD08)
+* [SaaS Statistics](https://99firms.com/blog/saas-statistics/#gref)
+* [Global Ecommerce 2019](https://www.emarketer.com/content/global-ecommerce-2019)
+* [Cloud computing with AWS](https://aws.amazon.com/what-is-aws/)
+* [CLEARBANC RAISES $300 MILLION USD TO TAKE ENTREPRENEUR FUNDING MODEL GLOBAL](https://betakit.com/clearbanc-raises-300-million-usd-to-take-entrepreneur-funding-model-global/)
+* [Clearbanc’s Michele Romanow explains how her ’20-Min Term Sheet’ could finance 2,000 firms’ paid marketing efforts](https://www.b2bnn.com/2019/04/clearbanc-romanow-20-min-term-sheet/)
+* [$1 Billion For 2,800 Startups: How Clearbanc Uses AI To Take Bias Out Of Investing](https://www.forbes.com/sites/johnkoetsier/2020/06/27/1-billion-for-2800-startups-how-clearbanc-uses-ai-to-take-bias-out-of-investing/#79a2ee7d51d0)
+* [Data-Driven VCs: Who Is Using AI To Be A Better (And Smarter) Investor](https://www.forbes.com/sites/cognitiveworld/2019/05/02/data-driven-vcs-who-is-using-ai-to-be-a-better-and-smarter-investor/#7fde667d1d34)
+* [Venture Capital Has A Lot To Learn From Fintech: Data-Driven, New Products, And More Access To A Broader Set Of Companies](https://www.forbes.com/sites/alexlazarow/2020/05/13/venture-capital-has-a-lot-to-learn-from-fintech/#77cd34e54fa2)
+* [Clearbanc Is Using AI To Level The Playing Field In Funding](https://www.forbes.com/sites/cognitiveworld/2019/04/11/clearbanc-ai-funding/#2c2acd957b60)
 
 
 
